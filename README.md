@@ -12,3 +12,11 @@ $ launchctl load ~/Library/LaunchAgents/tz.plist
 
 Application started after the command will have environment variable TZ=JST-9 .
 
+
+Ref:
+
+[Setting environment variables via launchd.conf no longer works in OS X Yosemite/El Capitan?](http://stackoverflow.com/questions/25385934/setting-environment-variables-via-launchd-conf-no-longer-works-in-os-x-yosemite)
+
+[HowTo: Set an Environment Variable in Mac OS X - launchd.plist](http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-mac-os-x-launchd-plist/)
+
+
